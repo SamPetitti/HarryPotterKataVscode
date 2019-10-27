@@ -1,0 +1,14 @@
+/Users/alive232/workspace/HarryPotterKata/HarryPotterTests/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/alive232/workspace/HarryPotterKata/HarryPotterTests/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/alive232/workspace/HarryPotterKata/HarryPotterTests/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/alive232/workspace/HarryPotterKata/harrypottertests/bin/Debug/netcoreapp2.2/harrypottertests.deps.json
+/Users/alive232/workspace/HarryPotterKata/harrypottertests/bin/Debug/netcoreapp2.2/harrypottertests.runtimeconfig.json
+/Users/alive232/workspace/HarryPotterKata/harrypottertests/bin/Debug/netcoreapp2.2/harrypottertests.runtimeconfig.dev.json
+/Users/alive232/workspace/HarryPotterKata/HarryPotterTests/bin/Debug/netcoreapp2.2/harrypottertests.dll
+/Users/alive232/workspace/HarryPotterKata/HarryPotterTests/bin/Debug/netcoreapp2.2/harrypottertests.pdb
+/Users/alive232/workspace/HarryPotterKata/HarryPotterTests/obj/Debug/netcoreapp2.2/harrypottertests.csprojAssemblyReference.cache
+/Users/alive232/workspace/HarryPotterKata/HarryPotterTests/obj/Debug/netcoreapp2.2/harrypottertests.csproj.CoreCompileInputs.cache
+/Users/alive232/workspace/HarryPotterKata/HarryPotterTests/obj/Debug/netcoreapp2.2/harrypottertests.AssemblyInfoInputs.cache
+/Users/alive232/workspace/HarryPotterKata/HarryPotterTests/obj/Debug/netcoreapp2.2/harrypottertests.AssemblyInfo.cs
+/Users/alive232/workspace/HarryPotterKata/HarryPotterTests/obj/Debug/netcoreapp2.2/harrypottertests.dll
+/Users/alive232/workspace/HarryPotterKata/HarryPotterTests/obj/Debug/netcoreapp2.2/harrypottertests.pdb
